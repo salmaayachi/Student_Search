@@ -1,0 +1,17 @@
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\StudentSearch.exe
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\StudentSearch.deps.json
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\StudentSearch.runtimeconfig.json
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\StudentSearch.dll
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\StudentSearch.pdb
+C:\Users\Selma\Desktop\StudentSearch\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.csproj.AssemblyReference.cache
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.AssemblyInfoInputs.cache
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.AssemblyInfo.cs
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.csproj.CoreCompileInputs.cache
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentS.2EA85C72.Up2Date
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.dll
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\refint\StudentSearch.dll
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.pdb
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\StudentSearch.genruntimeconfig.cache
+C:\Users\Selma\Desktop\StudentSearch\obj\Debug\net8.0\ref\StudentSearch.dll

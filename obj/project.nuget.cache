@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cx2tkUqVxsc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Selma\\Desktop\\StudentSearch\\StudentSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Selma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
