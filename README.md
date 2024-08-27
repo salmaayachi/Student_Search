@@ -28,6 +28,9 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/salmaayachi/StudentSearchWebApp.git
-2. cd StudentSearchWebApp
-3. dotnet restore
-4. dotnet run
+2.  ```bash
+    cd StudentSearchWebApp
+3. ```bash
+   dotnet restore
+5. ```bash
+    dotnet run
