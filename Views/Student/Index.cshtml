@@ -1,0 +1,51 @@
+@model IEnumerable<StudentSearchWebApp.Models.Student>
+
+@{
+    ViewData["Title"] = "Student Search";
+}
+
+<h2>Student Search</h2>
+
+<form method="get">
+    <input type="text" name="searchTerm" value="@ViewBag.SearchTerm" placeholder="Enter name or major" />
+    <br />
+    <label>Min Age:</label>
+    <input type="number" name="minAge" value="@ViewBag.MinAge" />
+    <label>Max Age:</label>
+    <input type="number" name="maxAge" value="@ViewBag.MaxAge" />
+    <br />
+    <label>Sort By:</label>
+    <select name="sortBy">
+        <option value="name">Name</option>
+        <option value="age">Age</option>
+    </select>
+    <select name="sortOrder">
+        <option value="asc">Ascending</option>
+        <option value="desc">Descending</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Major</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Major</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<form method="get" asp-action="ExportToJson">
+    <button type="submit">Export to JSON</button>
+</form>
+

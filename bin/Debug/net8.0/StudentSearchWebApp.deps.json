@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentSearchWebApp/1.0.0": {
+        "runtime": {
+          "StudentSearchWebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentSearchWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
